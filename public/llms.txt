@@ -1,0 +1,68 @@
+# SAP Learning Hub by ZaranTech
+
+> SAP Learning Hub (https://sap.zarantech.com/) is operated by ZaranTech. It compares ZaranTech's live SAP training paths for S/4HANA End-to-End Implementation, SAP BTP, SAP AI for Finance, SAP AI for ABAP, the SAP AI Masterclass and SAP Joule, and lists self-paced SAP video courses. It is not an official SAP website and is not affiliated with SAP SE.
+
+## Page sections
+- Which SAP course should you take?: The right first SAP course depends on your background and target role. SAP S/4HANA End-to-End Implementation suits functional consultants and project teams; the SAP BTP Masterclass suits developers and architects; SAP AI for ABAP suits ABAP developers; SAP AI for Finance suits FICO professionals; the SAP AI Masterclass and SAP Joule suit consultants adopting SAP Business AI. Complete beginners can start with the self-paced SAP for Beginners course.
+- SAP training paths compared: ZaranTech runs six featured live SAP training tracks: S/4HANA End-to-End Implementation (120 hours over 15 weeks), SAP BTP Masterclass (60 hours over 8 weeks), SAP AI for Finance Consultants (40 hours over 5 weeks), SAP AI for ABAP Consultants (40 hours over 7 weeks), SAP AI Masterclass (40 hours over 7 weeks) and SAP Joule (24 hours over 3 weeks).
+- Live, instructor-led SAP programs: ZaranTech runs live, instructor-led SAP programs with hands-on labs, assessments, session recordings and capstone projects. Beyond the six featured tracks, live SAP programs include SAP AI for MM and SD consultants, SAP Joule Studio and AI agents, Document AI, AI for SAP consultants with Claude or Microsoft Copilot, and SAP AI Leadership Mastery.
+- Self-paced SAP video training: ZaranTech's self-paced SAP video courses cover areas such as SAP for Beginners, S/4HANA Finance, FICO, MM, SD, EWM, BTP, Integration Suite, ABAP on HANA, Basis, MDG and Joule. Courses include recorded sessions, assignments, assessments and lab documents. The SAP Gold Bundle covers the SAP video catalog on one yearly subscription.
+- SAP training reviews: Learners who took ZaranTech's SAP courses, including SAP Basis, BTP ABAP on HANA, MDG, Joule and SAP HCM US and Canada Payroll, describe structured, practical and hands-on training in posts and reviews on LinkedIn and Justdial.
+- How to learn SAP: The most reliable way to learn SAP is in three steps: understand the business process, practice it hands-on in a lab system, then explain your design and configuration choices clearly through a capstone or portfolio project.
+- SAP training formats: ZaranTech offers SAP training in three formats: live instructor-led cohorts for individuals, self-paced video courses, and custom corporate programs for finance, supply chain, ABAP, BTP and SAP AI teams.
+
+## About ZaranTech
+- Legal name: Zarantech LLC, a US-based EdTech and enterprise IT training company established in 2009.
+- India subsidiary: ZaranTech Software Pvt Ltd.
+- CEO and Founder: Alok Kumar.
+- Training formats: live instructor-led, corporate training, self-paced video, mentoring.
+- Scale across all programs: 400+ courses, 32,000+ learners trained, 350+ corporate clients, 37+ countries served.
+
+## Featured live SAP training paths (zarantech.com course pages, checked 2026-11-07)
+- SAP S/4HANA End-to-End Implementation: 120 hours over 15 weeks. For SAP functional consultants, solution architects and project teams. SAP Activate, S/4HANA foundations, Finance and Supply Chain processes, data migration, testing, cutover, hypercare, global implementation capstone. https://www.zarantech.com/courses/sap-s-4hana-end-to-end-implementation-training
+- SAP BTP Masterclass Training: 60 hours over 8 weeks. For functional consultants, CAP and Fiori developers, Basis admins, integration consultants and architects. 19 modules, hands-on labs, five portfolio builds, end-to-end BTP capstone. https://www.zarantech.com/courses/sap-btp-masterclass-training
+- SAP AI for Finance Consultants Training: 40 hours over 5 weeks. For SAP FICO professionals, finance consultants and controllers. Finance AI use cases, AI with S/4HANA Finance, forecasting, AP/AR, FP&A, governed finance automation. https://www.zarantech.com/courses/sap-ai-for-finance-consultants-training
+- SAP AI for ABAP Consultants Training: 40 hours over 7 weeks. For ABAP developers and technical consultants. AI-assisted coding, legacy code analysis, test generation, RAP, SAP AI Core integration. https://www.zarantech.com/courses/sap-ai-for-abap-consultants-training
+- SAP AI Masterclass: 40 hours over 7 weeks. For SAP developers, solution architects and data and ML engineers. SAP AI Core, Generative AI Hub, Joule skills and agents, RAG, Document AI, AI governance. https://www.zarantech.com/courses/sap-ai-masterclass
+- SAP Joule Training: 24 hours over 3 weeks. For SAP consultants, power users and business professionals. Joule architecture, configuration, security, business use cases, SAP Build, testing and deployment. https://www.zarantech.com/courses/sap-joule
+
+## Self-paced and corporate options
+- Self-paced SAP courses on Teachable include recorded sessions from past live batches, assignments, assessments and lab documents. Learners can ask support about SAP server access after purchase.
+- SAP Gold Bundle: the SAP video catalog on one yearly subscription, including new SAP courses added while the plan is active. https://zarantech.teachable.com/p/sap-gold-bundle
+- Corporate SAP training is role-based for finance, supply chain, ABAP, BTP, integration and SAP AI teams; scope, labs, schedule and assessments are agreed with the client.
+- Training does not guarantee employment.
+
+## Self-paced SAP video courses (Teachable)
+- SAP for Beginners: https://zarantech.teachable.com/p/sap-for-beginners-training
+- SAP S/4HANA Finance 2023: https://zarantech.teachable.com/p/sap-s4-hana-finance-2023-training
+- SAP FICO on ECC: https://zarantech.teachable.com/p/sap-fico-training
+- SAP ECC MM (Materials Management): https://zarantech.teachable.com/p/sap-ecc-mm-training
+- SAP ECC SD (Sales and Distribution): https://zarantech.teachable.com/p/sap-ecc-sd-sales-and-distribution-training
+- SAP S/4HANA EWM: https://zarantech.teachable.com/p/sap-s-4hana-ewm-training
+- SAP BTP for Beginners: https://zarantech.teachable.com/p/sap-btp-for-beginners-training
+- SAP Integration Suite: https://zarantech.teachable.com/p/sap-btp-integration-suite-training
+- SAP ABAP on HANA, RAP and Fiori: https://zarantech.teachable.com/p/sap-abap-on-hana-rap-and-fiori-training
+- SAP S/4HANA Basis Administration: https://zarantech.teachable.com/p/sap-s4-hana-basis-administration-training
+- SAP MDG 9.2: https://zarantech.teachable.com/p/sap-mdg-9-2-training
+- SAP Joule: https://zarantech.teachable.com/p/sap-joule-training
+
+## Common questions (short answers)
+- What is SAP S/4HANA? SAP's current ERP suite for finance, procurement, sales, manufacturing and supply chain, running on SAP HANA. It succeeds SAP ECC.
+- What is SAP BTP? SAP Business Technology Platform, SAP's cloud platform for integrating, extending and automating SAP and non-SAP systems, used for clean-core extensions.
+- What is SAP Joule? SAP's generative AI copilot built into SAP cloud applications.
+- Which SAP course should I start with? Match your target role; complete beginners can start with the self-paced SAP for Beginners course.
+- How long does it take to learn SAP? ZaranTech's featured live SAP programs run 24 to 120 hours over 3 to 15 weeks, plus practice time.
+- How do I check fees and batch dates? Book a free advisor call or email sales@zarantech.com.
+
+## Optional
+- Full page text for AI assistants: https://sap.zarantech.com/llms-full.txt
+
+## Links
+- Live SAP training: https://www.zarantech.com/courses/?q=sap
+- Self-paced SAP course catalog: https://zarantech.teachable.com/l/products?courseCategory=SAP&sortKey=in_progress&sortDirection=desc&page=1
+- Learner reviews: https://www.trustpilot.com/review/zarantech.com
+- ZaranTech main website: https://www.zarantech.com/
+
+## Contact
+- Book a free call with a training advisor (individual or corporate): https://www.zarantech.com/talk-to-training-advisor/
+- sales@zarantech.com for current fees, batch dates and access terms.
